@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luitolo
-- 👀 I’m interested in I am very interested in developing highly complex data analysis processes, through the design and development of algorithms that allow finding patterns in the information, interpreting results and obtaining relevant conclusions, thus providing very valuable knowledge for making strategic decisions, any company.
+- 👀 I’m interested in developing highly complex data analysis processes, through the design and development of algorithms that allow finding patterns in the information, interpreting results and obtaining relevant conclusions, thus providing very valuable knowledge for making strategic decisions, any company.
 - 🌱 I’m currently learning I am currently developing my master's degree in data science and technological entrepreneurship
 - 💞️ I’m looking to collaborate on analysis of production processes and analysis of consumption and services data.
 - 📫 How to reach me through my email luitolo@gmail.com.
